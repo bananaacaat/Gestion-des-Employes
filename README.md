@@ -26,10 +26,10 @@ L'application comprend les fonctionnalités suivantes :
 ## Structure du Projet
 Le projet est organisé comme suit :
 
-- 'src/main/java' : Contient les classes Java du projet.
-- 'src/main/resources' : Contient les ressources essentielles du projet, telles que les fichiers de configuration.
-- 'src/main/WEB-INF' : Englobe les pages JSF, les fichiers CSS, JavaScript et les ressources web.
-- 'src/test' : Répertoire réservé aux tests unitaires.
+- `src/main/java` : Contient les classes Java du projet.
+- `src/main/resources` : Contient les ressources essentielles du projet, telles que les fichiers de configuration.
+- `src/main/WEB-INF` : Englobe les pages JSF, les fichiers CSS, JavaScript et les ressources web.
+- `src/test` : Répertoire réservé aux tests unitaires.
 
 
 ## Configuration
