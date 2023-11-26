@@ -53,7 +53,7 @@ Le projet est organisé comme suit :
 ### Supprimer Service
 ![WhatsApp Image 2023-11-26 at 02 32 01_f5c9e096](https://github.com/bananaacaat/tp-JSF/assets/147453939/9da57795-1e84-4693-9b05-a8402bef1c27)
 
-### STATS
+### Statistiques
 ![WhatsApp Image 2023-11-26 at 02 35 56_9d53dcda](https://github.com/bananaacaat/tp-JSF/assets/147453939/8a6b3383-72f5-4ac6-8856-0adb31450627)
 
 
